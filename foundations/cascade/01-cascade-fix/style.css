@@ -45,4 +45,7 @@ div.child {
   font-size: 14px;
 }
 
+* {
+  outline: 2px solid red;
+}
 
